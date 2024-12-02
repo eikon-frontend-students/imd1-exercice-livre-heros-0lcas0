@@ -1,6 +1,35 @@
 body {
-  background-color: #1a1a1a;
+  background-color: black;
   color: white;
+  text-align: center;
+  max-width: 600px;
+}
+li {
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  padding: 150px;
+}
+p {
+  margin-top: 250px;
+}
+div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+img {
+  max-width: 500px;
+  max-height: 500px;
+  margin: 0 auto;
+  display: block;
+  border-radius: 150px;
+}
+
+h1 {
+  color: white;
+  text-align: center;
 }
 
 a {
