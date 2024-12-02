@@ -1,0 +1,24 @@
+body {
+background-color:black ;
+max-width: 555px;
+  margin: 0 auto;
+}
+h1 {
+  text-align: center;
+  color: aliceblue;
+}
+h2 {font-size: large;}
+p {
+  color: aliceblue;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+img {
+max-width: 500px;
+margin: 0 auto;
+display: block;
+border-radius: 279px;
+}
+a {
+  color: aliceblue;
+}

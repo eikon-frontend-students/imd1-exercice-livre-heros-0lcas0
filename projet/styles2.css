@@ -1,0 +1,9 @@
+img {
+max-width: 1000px;
+margin: 0 auto;
+display: block;
+border-radius: 1000px;
+}
+body {
+  background-color: black;
+}
